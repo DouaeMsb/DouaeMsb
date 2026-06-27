@@ -1,4 +1,3 @@
-```md
 # Hallo! 👋 Ich bin Douae
 
 Ich studiere derzeit im **4. Semester Informatik** und interessiere mich besonders für Softwareentwicklung und moderne Technologien. Das Lösen anspruchsvoller Aufgaben motiviert mich, und ich erweitere meine Kenntnisse kontinuierlich durch praktische Studienprojekte.
@@ -62,4 +61,3 @@ Im Laufe meines Studiums habe ich unter anderem folgende Projekte umgesetzt:
 ## 📫 Kontakt
 
 📧 E-Mail: douaemsabri@gmail.com
-```
